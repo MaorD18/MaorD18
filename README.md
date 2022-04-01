@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @MaorD18
-- 👀 I’m interested in learning new things ! passionate about technology
+- 👀 I’m interested in learning new things ! 
+- passionate about technology and paalication security!
 - 🌱 I’m currently learning B.Sc in Information Systems
 
 <!---
